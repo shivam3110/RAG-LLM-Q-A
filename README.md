@@ -1,1 +1,1 @@
-# RAG-LLM-Q-A
+# RAG-LLM-Question-Answer bot
