@@ -2,6 +2,14 @@
 
 # RAG-LLM-Question-Answer Bot
 
+[![alt text][image]][hyperlink]
+
+[hyperlink]:https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg
+[image]:
+https://aws.amazon.com/what-is/retrieval-augmented-generation/
+(tooltip)
+ref: https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg
+
 ## Overview
 
 This repository contains the solution for a case study focused on constructing a Retrieval-Augmented Generation (RAG) system or Language Model (LLM) system. The primary goal is to optimize the system's performance in a hypothetical exam scenario by answering questions correctly. The success metric is the percentage of questions answered correctly.
