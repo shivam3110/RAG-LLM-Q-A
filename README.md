@@ -3,7 +3,6 @@
 # RAG-LLM-Question-Answer Bot
 
 [![alt text][image]][hyperlink]
-
 [hyperlink]:https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg
 [image]:
 https://aws.amazon.com/what-is/retrieval-augmented-generation/
