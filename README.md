@@ -1,12 +1,8 @@
 
 
 # RAG-LLM-Question-Answer Bot
+![image](https://github.com/shivam3110/RAG-LLM-Q-A/assets/56818878/8e32e0ea-b258-43ad-a254-456d1e3dbff0)
 
-[![alt text][image]][hyperlink]
-[hyperlink]:https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg
-[image]:
-https://aws.amazon.com/what-is/retrieval-augmented-generation/
-(tooltip)
 ref: https://docs.aws.amazon.com/images/sagemaker/latest/dg/images/jumpstart/jumpstart-fm-rag.jpg
 
 ## Overview
